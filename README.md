@@ -113,7 +113,7 @@ MacDirScope/
 ├── requirements.txt        # List of dependencies
 ├── .gitignore              # Git ignore file for Python projects
 ├── assets/                 # Contains screenshots of the application's UI
-└── LICENSE                 # [Your Chosen License] License File
+└── LICENSE                 # MIT License File
 ```
 
 -   **macdirscope.py**: Contains the complete program with all GUI components, metadata extraction logic, and Excel export functionality.
