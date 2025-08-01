@@ -23,7 +23,7 @@ Usage:
     - Ensure required libraries are installed:
           pip install openpyxl
     - Run the script from a terminal:
-          python mac-dir-scope.py
+          python mac_dir_scope.py
 
 Author: Vitalii Starosta
 GitHub: https://github.com/sztaroszta
