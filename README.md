@@ -77,7 +77,7 @@ pip install openpyxl
 **1. Run the application:**
 
 ```bash
-python mac-dir-scope.py
+python mac_dir_scope.py
 ```
 
 **2. Follow the Prompts:**
@@ -108,7 +108,7 @@ python mac-dir-scope.py
 
 ```
 MacDirScope/
-├── mac-dir-scope.py        # Main script for running the tool
+├── mac_dir_scope.py        # Main script for running the tool
 ├── README.md               # Project documentation
 ├── requirements.txt        # List of dependencies
 ├── .gitignore              # Git ignore file for Python projects
