@@ -171,7 +171,7 @@ See [LICENSE](LICENSE) for full details.
 
 ## Contact
 
-[![Digital Lab](https://img.shields.io/badge/Digital_Lab-starosta.app-E24A35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://starosta.app)
+[![Digital Lab](https://img.shields.io/badge/Digital_Lab-starosta.app-E24A35.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://starosta.app)
 
 ---
 
